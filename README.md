@@ -17,5 +17,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Client-side Code
-[CLIENT](https://github.com/ayush-020198/facerecogn_front_end)
+## Server-side Code
+[SERVER](https://github.com/ayush-020198/facerecogn_back_end)
